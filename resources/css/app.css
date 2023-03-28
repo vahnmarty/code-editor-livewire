@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.code{
+    @apply font-mono leading-3 text-blue-400 bg-blue-100 py-0.5;
+}
